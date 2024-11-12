@@ -1,6 +1,12 @@
 # wallpaper_app
 
-A new Flutter project.
+A dynamic wallpaper app built with Flutter that fetches fresh wallpapers every hour using an API. With this app, users can explore and set new wallpapers effortlessly, keeping their device background refreshed automatically.
+
+Features 🌟
+Dynamic Wallpapers: Get a new wallpaper every hour fetched via API.
+High-Quality Images: Access a range of stunning, high-resolution wallpapers.
+Set as Wallpaper: Apply wallpapers directly from the app with one tap.
+Simple & Intuitive UI: Clean and modern design for smooth navigation.
 
 ## Getting Started
 
